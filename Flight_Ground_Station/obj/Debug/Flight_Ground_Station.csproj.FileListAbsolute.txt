@@ -1,0 +1,11 @@
+D:\Yazılım\Flight_Ground_Station\bin\Debug\Flight_Ground_Station.exe.config
+D:\Yazılım\Flight_Ground_Station\bin\Debug\Flight_Ground_Station.exe
+D:\Yazılım\Flight_Ground_Station\bin\Debug\Flight_Ground_Station.pdb
+D:\Yazılım\Flight_Ground_Station\obj\Debug\Flight_Ground_Station.csproj.AssemblyReference.cache
+D:\Yazılım\Flight_Ground_Station\obj\Debug\Flight_Ground_Station.csproj.SuggestedBindingRedirects.cache
+D:\Yazılım\Flight_Ground_Station\obj\Debug\Flight_Ground_Station.Form1.resources
+D:\Yazılım\Flight_Ground_Station\obj\Debug\Flight_Ground_Station.Properties.Resources.resources
+D:\Yazılım\Flight_Ground_Station\obj\Debug\Flight_Ground_Station.csproj.GenerateResource.cache
+D:\Yazılım\Flight_Ground_Station\obj\Debug\Flight_Ground_Station.csproj.CoreCompileInputs.cache
+D:\Yazılım\Flight_Ground_Station\obj\Debug\Flight_Ground_Station.exe
+D:\Yazılım\Flight_Ground_Station\obj\Debug\Flight_Ground_Station.pdb
